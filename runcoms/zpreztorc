@@ -34,12 +34,16 @@ zstyle ':prezto:load' pmodule \
   'terminal' \
   'editor' \
   'history' \
+  'git' \
   'directory' \
   'spectrum' \
   'utility' \
   'completion' \
   'history-substring-search' \
-  'prompt'
+  'pacman' \
+  'python' \
+  'prompt' \
+  'thefuck'
 
 #
 # Autosuggestions
